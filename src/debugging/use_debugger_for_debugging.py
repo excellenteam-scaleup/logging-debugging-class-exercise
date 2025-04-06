@@ -1,4 +1,5 @@
 # Use pdb to do the following instructions -
+# Setup - download pycharm
 # 0. Add a breakpoint in the return line, inside the top_student function inside the Course class.
 # 1. Continue to the next line using the button
 # 2. Continue to the next line using the shortcut
